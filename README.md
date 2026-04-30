@@ -1,3 +1,5 @@
+<img width="1600" height="960" alt="Cover" src="https://github.com/user-attachments/assets/6c08c6d5-5029-4971-bd16-6559ce394645" />
+
 # Design System — tundsgn
 
 Multi-brand token architecture built in Figma, 
